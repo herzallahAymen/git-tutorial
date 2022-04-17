@@ -1,6 +1,6 @@
 name = input("give me a name")
 
-#hey there
+#more precise
 print("hello world! i am "+name)
 
 while True:
